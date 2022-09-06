@@ -28,7 +28,9 @@ Now I think it's time to start learning Front-end development and I plan to beco
 * CSS basics
 
 ## Code examples: 
-* __GitHub:__ <a href="https://github.com/KetiLom">KetiLom</a>
+  function multiply(a, b){
+   return a * b
+  }
 
 ## Certifications
 * ATM Management
