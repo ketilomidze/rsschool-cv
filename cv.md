@@ -8,8 +8,8 @@
 * __Linkedin:__ <a href="https://linkedin.com/in/keti-lomidze-63697577">Ketevan Lomidze</a>
 
 ## About Me
-My career officially began 14 years ago in a building materials company as a consultant. During this period, I worked in various companies in various managerial and non-managerial positions. Mainly in the IT direction. I am constantly in search of myself, and at some point I realized that the most interesting and varied work, which, in addition to pleasure, allows me to develop in different directions, is software development. I already had some experience with databases and deepened my knowledge in the direction of database development.
-Now I think it's time to start learning Front and I plan to become a full stack developer in the future.
+My career officially began 14 years ago in a building materials company as a sales consultant. After working in sales for 2 years, I changed jobs and went to the bank in the technical support group. During this period, I have worked in various positions during these years, Mainly in the IT direction. I am constantly in search of myself, and at some point I realized that the most interesting work, which, in addition to pleasure, allows me to develop in different directions, is software development. I already had some experience with databases and deepened my knowledge in the direction of database development.
+Now I think it's time to start learning Front-end development and I plan to become a full stack developer in the future.
 
 ## Skills and Proficiency:
 * Effective communication
